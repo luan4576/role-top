@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>login e cadastro</title>
+    <title>contratar evento</title>
    
     <link href="https://fonts.googleapis.com/css?family=Fredoka+One&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Londrina+Solid:900%7COpen+Sans" rel="stylesheet">
@@ -39,61 +39,146 @@
             </div>
         </nav>
         <hgroup>
-            <h1>login</h1>
+            <h1>contratos</h1>
         </hgroup>
     </header>
 
     <main>
-        <h2>Login</h2>
-        <form method="GET" action="aprovar-eventos-adm.html">
+        <h2>pagar</h2>
+        <form method="GET" action="dashboard.html">
 
             <div>
-                <label for="email">E-mail</label>
+                <label for="numero-do-cartao">numero do cartao</label>
                 <br />
-                <input id="email" type="email" />
+                <input id="numero-do-cartao" type="numero-do-cartao" />
             </div>
 
             <div>
-                <label for="senha">Senha</label>
+                <label for="senha">senha do cartao</label>
                 <br />
-                <input id="senha" type="password" />
+                <input id="senha-do-cartao" type="password" />
             </div>
+            <div>
+                    <label for="cpf-cnpj">cpf ou cnpj</label>
+                    <br />
+                    <input id="cpf-cnpj" type="cpf-cnpj" />
+                </div>
+            <label for="pacotes">escolha o seu e contrate</label>
+            <a href="#">1 dia por apenas 10,000 mil </a>
+            <a href="#">2 dias por apenas 18,000 mil</a>
+            <a href="#">3 dias por apenas 27,000 mil</a>
+            <table>
+                    <thead>
+                        
 
-            <a onclick="toggleMobileMenu()"  href="pacotes.html">entrar</a>
+                            <tr>
+                                <label for="agende">agende seu dia</label>
+                        
+                      </tr>
+            
+                      <tr>
+                            <td>seg</td>
+                            <td>ter</td>
+                            <td>qua</td> 
+                            <td>qui</td>
+                            <td>sex</td> 
+                            <td>sab</td>
+                            <td>dom</td> 
+                           
+                      </tr>
+            
+                      
+                      <tr>
+                          
+
+                              <td>1</td>
+                              <td>2</td>
+                              <td>3</td>
+                              <td>4</td>
+                              <td>5</td>
+                              <td>6</td>
+                              <td>7</td>
+                              
+                            
+                        </tr>
+                        
+                        
+                        <tr>
+                            <td>8</td>
+                            <td>9</td>
+                            <td>10</td>
+                            <td>11</td>
+                            <td>12</td>
+                            <td>13</td>
+                            <td>14</td>
+                        </tr>
+                        <tr>
+                            <td>15</td>
+                            <td>16</td>
+                            <td>17</td>
+                            <td>18</td>
+                            <td>19</td>
+                            <td>20</td>
+                            <td>21</td>
+                        </tr>
+            
+                        <tr>
+                                <td>22</td>
+                                <td>23</td>
+                                <td>24</td>
+                                <td>25</td>
+                                <td>26</td>
+                                <td>27</td>
+                                <td>28</td>
+            
+                            </tr>
+                            
+                            <tr>
+                                
+                                <td>29</td>
+                                <td>30</td>
+                                <td>31</td>
+                            </tr>
+                            
+                        
+                        </thead>
+                    </table>
+                    
+
+
+            <input type="submit" value="efetuar pagamento!" />
         </form>
 
     </main>
 
  
 
+
+
    
      <main>
-        <h2>cadastro</h2>
+        <h2>cancelar pagamento</h2>
         <form method="GET" action="index.html">
             <div>
-                <label for="nome">Nome Completo</label>
+                <label for="numero do cartao">Numero do cartao</label>
                 <br />
                 <input id="nome" type="text" maxlength="20" minlength="3" name="nome"/>
             </div>
 
             <div>
-                <label for="endereco">cpf ou cnpj</label>
+                <label for="senha-do-cartao">senha do cartao</label>
                 <br />
-                <input id="endereco" type="text" maxlength="20" minlength="3" name="endereco" />
-            </div>
-            
-            <div>
-                <label for="email">E-mail</label>
-                <br />
-                <input id="email" type="email" />
-            </div>
-            <div>
-                <label for="senha">senha</label>
-                <br />
-                <input id="senha" type="password" />
+                <input id="senha-do-cartao" type="text" maxlength="20" minlength="3" name="endereco" />
             </div>
 
-            <a onclick="toggleMobileMenu()"  href="pacotes.html">entrar</a>
+            <div>
+                <label for="cpf-ou-cnpj">cpf ou cnpj</label>
+                <br />
+                <input id="cpf-ou-cnpj" type="cpf ou cnpj" />
+            </div>
+           
+
+            <input type="submit" value="cancelar!" />
         
             </form>
      </main>

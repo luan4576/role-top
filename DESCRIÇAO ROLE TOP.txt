@@ -1,0 +1,136 @@
+Nome do projeto:ROLE TOP
+
+Responsável:LUAN DE SOUZA BARBOSA
+Clientes:ALEXANDRE E CESAR
+Empresa:ROLE TOP
+Data de criação deste documento
+06/08/2019
+Data de atualização deste documento
+08/08/2019
+Tipo de Projeto
+Website? Cartão? Logotipo? Preencha somente depois da fase de Definição
+Público-alvo
+Preencha somente depois da fase de Definição
+
+
+Sobre o cliente (empresa)
+COMEÇARAM EM 2010 TIVERAM A IDIA DE CRIAR ESSA EMPRESA EM UMA VIAJEM
+
+Informações gerais (Empatização)
+
+>fazem eventos em algum galpao,querem algum tipo de tecnologia em seu negocio,a ideia surgiu em uma viajem para abrir uma empresa.
+>como funcina a empresa:fazem bastante formatura,shows de musica,
+>preparo da empresa:tem serviços opcionais alugar so que ela quiser ou adicionar algum tipo de coisa a mais
+>tem seu proprio espaço para comida e bebida,mas nao fornecem bebidas e comidas nem funcionarios
+>media de publico:300,400 pessoas
+>estacionamento nao cabem todos os carros
+>fazem tudo no papel nada de digital
+>para cadastrar no evento tem que ser de maior e pagar uma parte do convite ou espaço
+>aluguel inicial:10.00
+>segurança:funciona tudo
+>todo tipo de pagamento cartao ou dinheiro
+>faz sucesso
+>avaliaçao do local:100
+>sobre os clientes:almentar os espaços,algumas colunas que ficam no galpao
+>cancelar o evento no maximo 3 dias se for em cima da hora a multa
+>so um evento por dia
+>estrutura do local;nao oferecem camarim
+>erram no papel e as vezes se confudem, o cliente falta de organizaçao
+>recusam alguns tipos de evento,os que ja deram brigas ou algum tipo de problema antes
+>tem espaço para escritorio,
+>meios de divulgaçao por outras pessoas propaganda na midia,cartases,
+>controle dos participantes:catraca,pulseira,convite.
+>rede social;so facebook,nao tem site
+>permite marcar eventos pro outro dia desde que nao tenha outro evento na frente
+>horarios de funcionamento:so quando tem show
+>limpeza depois do evento por conta da empresa
+>depende do evento,para quantidade de pessoas
+>acesso a deficiente
+>cameras de segurança
+>sem coferencia de limite de pessoas
+>objetos dentro do espaço por conta do contratante
+>tem som e iluminaçao, nem um fornecedor a nao ser que a pessoa quer contratar por fora
+>ate 3horas da manha funcionamento,40 min de tolerancia para acabar o evento
+>tem sistema de ar condicionado e climatizaçao
+>lugar fechado
+
+
+	
+
+
+
+Problemas/Necessidades/Insights (Definição)
+Escreva aqui os itens e funcionalidades que o projeto precisa, assim como problemas/obstáculos para a conclusão do mesmo.
+PROBLEMAS E NECESSIDADES
+1>titulos
+2>tela de cadastro
+3>localizaçao
+4>definir um jeito de deixar dados do cliente salvo
+5>cancelamentos de shows
+6>telefone no site
+7>armazenamento
+8>como fazer propaganda
+9>avaliaçao
+10>concorrentes
+11>parcerias
+12>historia da empresa
+13>galeria de fotos para mostrar o local e eventos que ja fizeram
+Conclusão
+	Público-alvo:CASAMENTO,FESTA DE CRIANÇA,FESTA COM MUSICA
+	Tipo de projeto:FESTAS
+
+Soluções propostas (Ideação)
+Problema/Necessidade/Insight
+COMO ADMINISTRAR O SITE
+Solução
+CRIAR UMA AREA DE LOGIN DE ADMINISTRADDOR
+
+
+Observações para o Protótipo
+FOCAR NAS PRIORIDADES DOS CLIENTES
+
+
+
+Feedback dos testes
+Pontos levantados:1>titulos
+2>tela de cadastro
+3>localizaçao
+4>definir um jeito de deixar dados do cliente salvo
+5>cancelamentos de shows
+6>telefone no site
+7>armazenamento
+8>como fazer propaganda
+9>avaliaçao
+10>concorrentes
+11>parcerias
+12>historia da empresa
+13>galeria de fotos para mostrar o local e eventos que ja fizeram
+
+Correção
+1>titulos:login,fotos e videos do local,area de pagamento,telefone,localizaçao,area para contratos e cancelamentos,area para ingressos,programaçao para o mes
+
+2>como fazer a tela de cadastro:a pessoa vai entrar no site vai clicar no titulo login vai colocar nome,email,senha,e algum tipo de documento que confirme que vc e maior de idadeou conferir na portaria outras opçoes entrar com o facebook, ja vai ir nas opçoes de contratos ou shows que vao ter e pagar pelo cartao ou boleto o boleto a pessoa vai receber um email de quando o dinheiro caiu e o pagamento esta confirmado
+
+3>localizaçao:poderia colocar um link no site e ir direto para o google maps para achar o local,ou o mapa desenhado da regiao
+
+4>deixar dados do cliente salvo:so salvar dados de clientes, que fazem pedidos frequentemente
+
+5> cancelamento de shows:fazer uma area no site so para contratos e cancelamentos com o cadastro do cliente
+
+6>telefone no site:deixar exposto para as pessoas entrar em contato e outros tipos de contato como email da empresa
+
+7>armazenamento:colocar maquinas de armazenamento, e depois de uma semana as proprias maquinas apaga os dados altomaticamente
+
+8>propaganda:colocar anuncios em sites relacionados a festa e shows, e em aplicativos como instagram,facebok
+
+9>avaliaçao e sugestoes dos clientes:fazer uma pequena area para que os clientes opnarem sobre o lugar
+
+10>concorrencia:avalie se esta dando certo o do concorrente e tente fazer parecido se estiver errado fassa de um jeito diferente que de certo
+
+11>deixar algum tipo de parcerias no site para contratos por fora como,bebidas,lanches,segurança
+
+12>historia da empresa em um tiulo ex:nossa historia ou quem somos 
+
+
+
+
