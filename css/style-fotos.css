@@ -21,7 +21,7 @@ h1,h2,h3,h4,h5{
    #teste {
       display: none;
    }
- 
+
    h1{
    display:none;
 }
@@ -68,11 +68,7 @@ nav ul > li > a:hover {
    align-items: center;
    font-size: 1.3em;
    list-style-type: none;
-   
- 
-  
-  
-  
+
 }
  
 h2 {
@@ -85,24 +81,8 @@ h2 {
   -1px  1px 0 #ff9933,
    1px  1px 0 #ff9933;
   }
-  h2 img {
-     background-color: #ff9933;
-     position: fixed;
-     width: 100%;
-     z-index: 999;
-  }
-  
-  
-  #fotos h3 {
-     display: flex;
-      flex-direction: row;
-      flex-wrap: nowrap;
-      justify-content: center;
-      align-items: flex-start;
-      align-content: stretch;
+ 
 
-  }
-     
 
   .flex-group {
      display: flex;
@@ -111,69 +91,10 @@ h2 {
  }
  
  .flex-group.food-section {
-     justify-content: space-evenly;
-     align-items: center;
-    
-     
+   justify-content: space-evenly;
+   align-items: center;
  }
 
- #historia ul {
-    align-items:center;
-    font-size: 1.3em;
- }
-#programaçao-de-eventos h4 {
-   display:flex;
-   align-items:flex-end;
-   justify-content: center;
-   font-size: 1.3em;
-}
- 
-#programaçao-de-eventos ul {
-   display:flex;
-   align-items:flex-end;
-   justify-content: center;
-   background-color:#ffc600;
- 
-}
-
-
- 
-#programaçao-de-eventos a {
-   color: #7d0093;
-   list-style-type:none;
-}
-#programaçao-de-eventos li {
-   font-size: 1.3em;
-}
-#programaçao-de-eventos ul > li > a:hover {
-  background-color:#7d0093;
-  color:#ffc600;
-}
- 
-#termos h6 {
-   display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: center;
-    align-items: flex-start;
-    align-content: stretch;
-    font-size: 1.5em;
-}
- 
- #contatos h5 {
-     font-size: 1.3em;
- }
- #contatos ul {
-    font-size: 1.0em;
- }
- 
-#termos ul {
-   display: flex;
-   justify-content: center;
-   align-items: flex-end;
-   font-size: 1.3em;
-}
- 
 @media (max-width: 625px){
  
   
@@ -203,3 +124,4 @@ footer {
   color: #7d0093;
   width: 100%;
 }
+
